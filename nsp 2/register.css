@@ -1,0 +1,54 @@
+
+
+
+body{
+    background: url("download.jpg") no-repeat;
+    
+    background-size: 100%;
+    opacity: 15;
+
+}
+
+.set{
+    width: 600px;
+}
+
+
+.row{
+    height: 55px;
+    display: inline-flex;
+    margin-top: 80px;
+    text-align: center;
+    margin-left: -9px;
+    float: left;
+    cursor: pointer;
+    padding-right: 00px;
+    width: 1310px;
+    border-bottom: 1px solid black;
+    background-color: rgb(233, 139, 31);
+    margin-bottom: 0px;
+}
+
+.row li{
+    line-height: 37px;
+    color: blue;
+    padding-left: 32px;
+    padding-right: 30px;
+    border: 0px solid black;
+    background-color: ;
+    text-transform: uppercase;
+    transition: 0.8s;
+    border-radius: 30px;
+    margin-left: 12.96px;
+    margin-top: 10px;    
+}
+
+.row li:hover{
+    border: 0px;
+    background-color: blueviolet;
+    border-bottom: 2px solid blue;
+    color: white;
+    
+}
+
+
